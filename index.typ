@@ -3,6 +3,7 @@
 #import "/typ/respec.typ"
 #import "/typ/packages/vite.typ"
 
+
 /// Wraps the following content with the HTML template.
 #show: load-html-template.with(
   "/typ/templates/template.html",
